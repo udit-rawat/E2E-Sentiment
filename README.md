@@ -12,8 +12,6 @@
 4. [Setup Instructions](#setup-instructions)
 5. [Running the Pipeline](#running-the-pipeline)
 6. [Testing the API](#testing-the-api)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
