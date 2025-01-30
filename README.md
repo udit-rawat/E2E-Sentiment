@@ -1,6 +1,7 @@
 # E2E-Sentiment: End-to-End Sentiment Analysis Pipeline
 
 **E2E-Sentiment** is an end-to-end sentiment analysis pipeline that processes movie reviews from the IMDb dataset and predicts the sentiment (positive or negative) of a given review. The solution involves data collection, cleaning, exploration, model training, and a Flask API for serving predictions. This project is designed to be easily deployable both on Kaggle and locally.
+![E2E-Sentiment Pipeline](E2E.png)
 
 ---
 
